@@ -11,7 +11,10 @@ The pipeline ingests data from multiple sources, performs transformations using 
 ### **Medallion Layers**  
 - **Bronze Layer** – Raw data ingestion from multiple sources  
 - **Silver Layer** – Data cleaning, standardization  
-- **Gold Layer** – Aggregated, business-ready tables optimized for analytics  
+- **Gold Layer** – Aggregated, business-ready tables optimized for analytics
+
+<img width="1320" height="574" alt="image" src="https://github.com/user-attachments/assets/0c1ec073-b9e6-45b4-8087-43d7a0370460" />
+
 
 ### **Data Sources**  
 | **Source Type** | **File Format** | **Description** |
@@ -29,3 +32,4 @@ The pipeline ingests data from multiple sources, performs transformations using 
 - **Power BI** (connected to Databricks for dashboarding)
 
 ---
+<img width="1283" height="725" alt="image" src="https://github.com/user-attachments/assets/071a5ae1-d8ac-4bf5-85f1-554f01b52725" />
